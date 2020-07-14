@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recycleview In Fragment PR</string>
+    <string name="open_fragment">Open Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instagram_logo">Instagram Logo</string>
+</resources>

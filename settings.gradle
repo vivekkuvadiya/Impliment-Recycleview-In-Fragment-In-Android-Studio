@@ -1,0 +1,2 @@
+rootProject.name='Recycleview In Fragment PR'
+include ':app'
